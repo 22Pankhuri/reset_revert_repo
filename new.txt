@@ -1,0 +1,2 @@
+check reset command
+"first commit"
