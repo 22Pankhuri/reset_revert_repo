@@ -1,10 +1,10 @@
 check revert 
  command
-"fourth commit
-"Second commit
+
 
 
 
 
 
 final commit
+"Second commit"
