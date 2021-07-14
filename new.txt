@@ -1,2 +1,3 @@
-check reset command
-"first commit"
+check revert 
+ command
+"Second commit"
